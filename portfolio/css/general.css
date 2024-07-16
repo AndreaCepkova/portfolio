@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding: 30px;
+    color: rgb(210, 210, 210);
+    background-color: black; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /*overflow: hidden;*/
+    overflow-x: hidden;
+    
+    
+}
+.me{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    max-width: 130px;
+
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h2{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    font-size: 28px;
+    max-width: 350px;
+    display: flex ;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.about{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    max-width: 350px;
+    display: flex ;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.text{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    font-size: 2,0em;
+    max-width: 350px;
+    left:90px;
+    top:330px;
+    display: flex ;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 330px;
+       
+    }
+
+
+.concertphotos,
+.macrophotos,
+.otherphotos,
+.portraitphotos{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    width: 410px;
+
+    border-radius: 5%;
+    
+
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+
+}
+h1{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    font-size: 45px;
+    max-width: 700px;
+    display: flex ;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.ig, .button7,
+.fb, .button8,
+.be, .button9{
+    width: 38px;
+    position:absolute;
+    top:880px;
+    border: 2px solid rgb(50, 50, 50);
+    border-radius: 50%;
+    border-style: double;
+    transition: 0.2s;
+}
+
+
+.sk,
+.eng{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    width:40px;
+
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
